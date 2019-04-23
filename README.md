@@ -1,6 +1,6 @@
-# Hux Blog
+# fshang Blog
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Live fshang Blog &rarr;](https://fshang.github.io)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
